@@ -1,0 +1,44 @@
+.form-inline{
+    position: right;
+}
+.jumbotron{
+    background-color: rgb(236, 236, 236);
+    padding: 1em;
+}
+img.inter1, img.inter2{
+    width: 360px;
+    height: 216px;
+}
+
+.inter1{
+float: left;
+position: relative;
+right: 30px;
+}
+
+.inter2{
+    float: right;
+    position: relative;
+    left: 30px;
+}
+
+.container-about{
+    margin: 0% auto;
+    padding-top: 4em;
+    padding-left: 4em;
+    padding-right: 4em;
+}
+
+form.search-button{
+    position: relative;
+    left: 590px;
+}
+
+.navbar-brand, .nav-item{
+    position: relative;
+    left: 10px;
+}
+
+.row{
+    padding: 2em;
+}
